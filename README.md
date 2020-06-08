@@ -2,4 +2,4 @@
 
 This is an implementation of differential cryptanalysis performed on the following substitution-permutation network :
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+![](https://github.com/arnaudlheureux/DifferentialCryptanalysis/blob/master/SPN.png)
